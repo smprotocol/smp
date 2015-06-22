@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Streaming Message Protocol (SMP) is a lightweight message framing protocol layer for exchanging 
+The Streaming Message Protocol (SMP) is a lightweight message framing protocol for exchanging 
 messages between peers across transports such as: TCP, TLS, WebSockets. SMP allows whole and 
 multipart messages in binary codec.
 
