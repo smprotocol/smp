@@ -172,16 +172,14 @@ Examples
 
 Send PAYLOAD data "hello world" as a MESSAGE (CODE 0) shown in spaced hexadecimal:
 
-```
 01 00 0b 68 65 6c 6c 6f 20 77 6f 72 6c 64
-```
+
 
 Send PAYLOAD data "hello world" as a FRAME (CODE 1) with ID 1 and FRAME# 1, shown in spaced 
 hexadecimal:
 
-```
 11 00 00 01 00 00 00 01 0b 68 65 6c 6c 6f 20 77 6f 72 6c 64
-```
+
 
 Conventions
 
